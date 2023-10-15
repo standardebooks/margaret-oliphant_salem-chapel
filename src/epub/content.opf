@@ -35,15 +35,16 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85112657</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young dissenting minister experiences challenges to his pastorate while going through personal crises.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The sleepy town of Carlingford includes two Anglican churches and one dissenting chapel. They draw their congregations from very different strata of society, even in as small a town as Carlingford. Arthur Vincent has just been called as pastor to his first charge, Salem Chapel. He is a young man of ability, but also pride and ambition. As his ministry settles, he finds himself both repulsed by the crude and claustrophobic society of his “flock,” and attracted by the brighter members of the town’s society.&lt;/p&gt;
+			&lt;p&gt;Vincent’s social entanglements complicate his ministry in predictable ways. What could not be predicted, however, are the crises into which his wider family is plunged as their lives intertwine with those of strangers.&lt;/p&gt;
+			&lt;p&gt;This second &lt;a href="https://standardebooks.org/collections/chronicles-of-carlingford"&gt;Chronicle of Carlingford&lt;/a&gt; brings readers into a realm of society which is seldom glimpsed in Victorian fiction: the lives of shopkeepers, dissenting thought and culture, the distinctive piety and “tea meetings” of the Chapel—all of which finds its closest parallels in the later fiction of &lt;a href="https://standardebooks.org/ebooks/mark-rutherford"&gt;Mark Rutherford&lt;/a&gt;. While &lt;i&gt;Salem Chapel&lt;/i&gt; may not yet be the high point of the series artistically, still, as one critic puts it, with it “&lt;a href="https://standardebooks.org/ebooks/margaret-oliphant"&gt;Mrs. Oliphant&lt;/a&gt; gave the surest sign of genius.”&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/42013</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/42044</dc:source>
 		<dc:source>https://books.google.com/books?id=sxG7ulHqDjEC</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Salem_Chapel</meta>
@@ -53,10 +54,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Margaret_Oliphant</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50048460</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Gilbert Stuart</dc:contributor>
+		<meta property="file-as" refines="#artist">Stuart, Gilbert</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Gilbert Charles Stuart</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Gilbert_Stuart</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50083265</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Chuck Greif</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Greif, Chuck</meta>

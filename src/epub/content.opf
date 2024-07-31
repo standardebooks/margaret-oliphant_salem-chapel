@@ -48,7 +48,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/42013</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/42044</dc:source>
 		<dc:source>https://books.google.com/books?id=sxG7ulHqDjEC</dc:source>
-		<meta property="se:word-count">168169</meta>
+		<meta property="se:word-count">168165</meta>
 		<meta property="se:reading-ease.flesch">68.5</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Salem_Chapel</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/margaret-oliphant_salem-chapel</meta>
